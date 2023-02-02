@@ -1,0 +1,2 @@
+index is the main page of the project.
+it will show main content of the application.

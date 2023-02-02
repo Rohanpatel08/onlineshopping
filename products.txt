@@ -1,2 +1,1 @@
-it will present product of the application.
 this is product page from master branch.
